@@ -1,0 +1,8 @@
+{
+  "name": "Remix کارت دعوت عروسی سارا و رادین",
+  "description": "دعوت‌نامه دیجیتال مجلل عروسی سارا و رادین همراه با انیمیشن باز شدن پاکت و زمان‌بندی جشن",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
